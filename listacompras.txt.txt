@@ -1,0 +1,1 @@
+O objetivo deste projeto é criar uma lista de compras interativa de uma lanchonete. Ingredientes, materiais de limpeza, etc. Para ajudar o dono e os funcionários a ter controle. 
